@@ -1,0 +1,20 @@
+#config_version=6
+
+switches:
+  s_left_flipper:
+    number:
+    tags: left_flipper
+  s_right_flipper:
+    number:
+    tags: right_flipper
+
+## MPF Main Machine Config File
+#
+# This file defines your system-wide properties like switches,
+# drivers, ball devices, hardware platforms, and more. You can
+# include everything here, or create sub-config files to be
+# imported and merged with this one.
+
+modes:
+  - attract
+  - base
