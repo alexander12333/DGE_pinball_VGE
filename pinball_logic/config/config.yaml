@@ -25,6 +25,7 @@ coils:
   c_flipper_right_hold:
     number:
     allow_enable: true
+    
 playfields:
   playfield:
     tags: default
