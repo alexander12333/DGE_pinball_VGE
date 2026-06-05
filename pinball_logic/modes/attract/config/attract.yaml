@@ -18,3 +18,4 @@ sound_player:
   mode_attract_started:
     start_menu:
       bus: music
+      loops: -1
