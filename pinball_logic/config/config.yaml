@@ -4,6 +4,7 @@ config:
   - config_ball_devices.yaml
   - config_coils.yaml
   - config_switches.yaml
+  - config_flippers.yaml
 
 modes:
   - attract
